@@ -1,0 +1,12 @@
+# Secret File
+.env
+
+# Deps modules
+node_modules
+
+# Build folders
+dist
+
+# misc
+yarn-*.log
+package-lock.json
